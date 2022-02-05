@@ -9,17 +9,18 @@ Lleve a cabo las siguientes acciones en un editor de textos en un nuevo archivo 
 - Al finalizar debe imprimir en pantalla un mensaje que indique su número de carné y su nombre completo.
 
 - Codigo del programa
-var mes = 10
-if (mes == 12 || mes == 1 || mes == 2){
-   alert("Es invierno")
-   alert ("No.Carnet:14001101/Jairo Estuardo Gonzalez Paz")
-}else if (mes == 3 || mes == 4 || mes == 5){
-  alert("Es primavera")
-  alert ("No.Carnet:14001101/Jairo Estuardo Gonzalez Paz")
-}else if (mes == 6 || mes == 7 || mes == 8){
-  alert("Es verano")
-  alert ("No.Carnet:14001101/Jairo Estuardo Gonzalez Paz")
-}else if (mes == 9 || mes == 10 || mes == 11){
-  alert("Es otoño")
-  alert ("No.Carnet:14001101/Jairo Estuardo Gonzalez Paz")
-}
+
+   - var mes = 10
+   - if (mes == 12 || mes == 1 || mes == 2){
+   - alert("Es invierno")
+   - alert ("No.Carnet:14001101/Jairo Estuardo Gonzalez Paz")
+   - }else if (mes == 3 || mes == 4 || mes == 5){
+   - alert("Es primavera")
+   - alert ("No.Carnet:14001101/Jairo Estuardo Gonzalez Paz")
+   - }else if (mes == 6 || mes == 7 || mes == 8){
+   - alert("Es verano")
+   - alert ("No.Carnet:14001101/Jairo Estuardo Gonzalez Paz")
+   - }else if (mes == 9 || mes == 10 || mes == 11){
+   - alert("Es otoño")
+   - alert ("No.Carnet:14001101/Jairo Estuardo Gonzalez Paz")
+   - }
