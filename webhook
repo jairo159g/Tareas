@@ -1,0 +1,25 @@
+{
+  "orderDetails": [
+    {
+      "serviceType": "Servicio estándar",
+      "orderType": "ALLMILE",
+      "destinationBranchName": "GUA",
+      "orderNo": "51378605-1",
+      "deliveryType": "SE-PQ",
+      "originBranchName": "GUA",
+      "branchName": "GUA",
+      "milestoneType": "PICKUP",
+      "orderReferenceId": "0946f5639b89414b88030e0bcf297506",
+      "awbNumber": "51378605-1",
+      "orderState": "FORWARD",
+      "milestoneNo": "51378605-1_M1",
+      "movementType": "Customer-to-Branch",
+      "clientCode": "13529",
+      "milestoneReferenceId": "0946f5639b89414b88030e0bcf297506",
+      "orderDate": "2022-04-01 16:02:19",
+      "distributionCenter": "GUA",
+      "timestamp": "2022-04-01 16:02:20"
+    }
+  ],
+  "notificationType": "MILEE2EORDERCREATIONNOTIFICATION"
+}
