@@ -3,23 +3,23 @@
     {
       "serviceType": "Servicio estándar",
       "orderType": "ALLMILE",
-      "destinationBranchName": "XLA",
-      "orderNo": "51375794-1",
+      "destinationBranchName": "QCH",
+      "orderNo": "PE7346",
       "originBranchName": "GUA",
       "deliveryType": "SE-PQ",
       "branchName": "GUA",
       "milestoneType": "PICKUP",
-      "orderReferenceId": "1cf7da768b2a40b78f7dd9de55534355",
-      "awbNumber": "51375794-1",
+      "orderReferenceId": "76831a4217e94c7ea75289b2e4c6c6f0",
+      "awbNumber": "PE7346",
       "orderState": "FORWARD",
-      "milestoneNo": "51375794-1_M1",
+      "milestoneNo": "PE7346_M1",
       "movementType": "Customer-to-Branch",
-      "clientCode": "1598",
-      "milestoneReferenceId": "1cf7da768b2a40b78f7dd9de55534355",
+      "clientCode": "PRUEBAS",
+      "milestoneReferenceId": "76831a4217e94c7ea75289b2e4c6c6f0",
+      "orderDate": "2022-03-11 05:59:55",
       "distributionCenter": "GUA",
-      "orderDate": "2022-04-01 15:53:51",
-      "routeConfigurationName": "GUA_XLA_26",
-      "timestamp": "2022-04-01 15:53:51"
+      "routeConfigurationName": "GUA_QCH_27",
+      "timestamp": "2022-03-11 05:59:56"
     }
   ],
   "notificationType": "MILEE2EORDERCREATIONNOTIFICATION"
